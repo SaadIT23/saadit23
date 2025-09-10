@@ -15,4 +15,8 @@ Hi, I’m Saad Imran, a passionate Full Stack Developer with expertise in the ME
 ---
 [![](https://visitcount.itsvg.in/api?id=SaadIT23&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🌐 Trophies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadit23" alt="saadit23" /></a> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
